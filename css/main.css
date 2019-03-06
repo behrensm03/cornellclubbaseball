@@ -267,7 +267,7 @@ footer {
 }
 
 #AaronNeeckroster {
-    background-image: url(../../img/bearlogoroster.png);
+    background-image: url("../img/bearlogoroster.png");
     transition: 0.5s linear;
 }
 
@@ -276,7 +276,7 @@ footer {
 }
 
 #AlexTorpeyroster {
-    background-image: url(../../img/Torpey_D.jpg);
+    background-image: url("../img/Torpey_D.jpg");
     transition: 0.5s linear;
 }
 
@@ -285,37 +285,37 @@ footer {
 }
 
 #AndrewGreeneroster {
-    background-image: url(../../img/Greene_O_2.jpg);
+    background-image: url("../img/Greene_O_2.jpg");
     transition: 0.5s linear;
 }
 
 #AndrewGreeneroster:hover {
-    background-image: url(../../img/Greene_D.jpg);
+    background-image: url("../img/Greene_D.jpg");
     transition: 0.5s linear;
 }
 
 #AnthonyCharlesroster {
-    background-image: url(../../img/AC_O.jpg);
+    background-image: url("../img/AC_O.jpg");
     transition: 0.5s linear;
 }
 
 #AnthonyCharlesroster:hover {
-    background-image: url(../../img/AC_D.jpg);
+    background-image: url("../img/AC_D.jpg");
     transition: 0.5s linear;
 }
 
 #BrandonReyesroster {
-    background-image: url(../../img/Reyes_O.jpg);
+    background-image: url("../img/Reyes_O.jpg");
     transition: 0.5s linear;
 }
 
 #BrandonReyesroster:hover {
-    background-image: url(../../img/Reyes_D.jpg);
+    background-image: url("../img/Reyes_D.jpg");
     transition: 0.5s linear;
 }
 
 #BrettOConnorroster {
-    background-image: url(../../img/OConnor_D.jpg);
+    background-image: url("../img/OConnor_D.jpg");
     transition: 0.5s linear;
 }
 
@@ -325,7 +325,7 @@ footer {
 
 #ConradMcCarthyroster {
     transition: 0.5s linear;
-    background-image: url(../../img/bearlogoroster.png);
+    background-image: url("../img/bearlogoroster.png");
 }
 
 #ConradMcCarthyroster:hover {
@@ -334,22 +334,22 @@ footer {
 
 
 #EricBohrerroster {
-    background-image: url(../../img/Bohrer_O.jpg);
+    background-image: url("../img/Bohrer_O.jpg");
     transition: 0.5s linear;
 }
 
 #EricBohrerroster:hover {
-    background-image: url(../../img/Bohrer_D_1.jpg);
+    background-image: url("../img/Bohrer_D_1.jpg");
     transition: 0.5s linear;
 }
 
 #FernandoGilroster {
-    background-image: url(../../img/bearlogoroster.png);
+    background-image: url("../img/bearlogoroster.png");
     transition: 0.5s linear;
 }
 
 #IanFoxroster {
-    background-image: url(../../img/bearlogoroster.png);
+    background-image: url("../img/bearlogoroster.png");
     transition: 0.5s linear;
 }
 
@@ -358,17 +358,17 @@ footer {
 }
 
 #IlanLindenfeldroster {
-    background-image: url(../../img/Ilan_D_1.jpg);
+    background-image: url("../img/Ilan_D_1.jpg");
     transition: 0.5s linear;
 }
 
 #IlanLindenfeldroster:hover {
-    background-image: url(../../img/Ilan_D_2.jpg);
+    background-image: url("../img/Ilan_D_2.jpg");
     transition: 0.5s linear;
 }
 
 #JackBronskyroster {
-    background-image: url(../../img/bearlogoroster.png);
+    background-image: url("../img/bearlogoroster.png");
     transition: 0.5s linear;
 }
 
@@ -377,27 +377,27 @@ footer {
 }
 
 #JamesKimroster {
-    background-image: url(../../img/Kim_O.jpg);
+    background-image: url("../img/Kim_O.jpg");
     transition: 0.5s linear;
 }
 
 #JamesKimroster:hover {
-    background-image: url(../../img/Kim_D.jpg);
+    background-image: url("../img/Kim_D.jpg");
     transition: 0.5s linear;
 }
 
 #JasonShandlerroster {
-    background-image: url(../../img/Shandler_O.jpg);
+    background-image: url("../img/Shandler_O.jpg");
     transition: 0.5s linear;
 }
 
 #JasonShandlerroster:hover {
-    background-image: url(../../img/Shandler_D.jpg);
+    background-image: url("../img/Shandler_D.jpg");
     transition: 0.5s linear;
 }
 
 #JimmyGroarkroster {
-    background-image: url(../../img/bearlogoroster.png);
+    background-image: url("../img/bearlogoroster.png");
     transition: 0.5s linear;
 }
 
@@ -406,17 +406,17 @@ footer {
 }
 
 #JoeyWelshroster {
-    background-image: url(../../img/Welsh_O.jpg);
+    background-image: url("../img/Welsh_O.jpg");
     transition: 0.5s linear;
 }
 
 #JoeyWelshroster:hover {
-    background-image: url(../../img/Welsh_D.jpg);
+    background-image: url("../img/Welsh_D.jpg");
     transition: 0.5s linear;
 }
 
 #JordanGorelickroster {
-    background-image: url(../../img/Gorelick_O.jpg);
+    background-image: url("../img/Gorelick_O.jpg");
     transition: 0.5s linear;
 }
 
@@ -425,17 +425,17 @@ footer {
 }
 
 #JoshSayreroster {
-    background-image: url(../../img/Sayre_O.jpg);
+    background-image: url("../img/Sayre_O.jpg");
     transition: 0.5s linear;
 }
 
 #JoshSayreroster:hover {
-    background-image: url(../../img/Sayre_D.jpg);
+    background-image: url("../img/Sayre_D.jpg");
     transition: 0.5s linear;
 }
 
 #LouisSusserroster {
-    background-image: url(../../img/bearlogoroster.png);
+    background-image: url("../img/bearlogoroster.png");
     transition: 0.5s linear;
 }
 
@@ -444,17 +444,17 @@ footer {
 }
 
 #MarkJonesroster {
-    background-image: url(../../img/Jones_D_2.jpg);
+    background-image: url("../img/Jones_D_2.jpg");
     transition: 0.5s linear;
 }
 
 #MarkJonesroster:hover {
-    background-image: url(../../img/Jones_D_1.jpg);
+    background-image: url("../img/Jones_D_1.jpg");
     transition: 0.5s linear;
 }
 
 #MichaelBehrensroster {
-    background-image: url(../../img/Behrens_O.jpg);
+    background-image: url("../img/Behrens_O.jpg");
     transition: 0.5s linear;
 }
 
@@ -463,7 +463,7 @@ footer {
 }
 
 #MikeFariasroster {
-    background-image: url(../../img/bearlogoroster.png);
+    background-image: url("../img/bearlogoroster.png");
     transition: 0.5s linear;
 }
 
@@ -472,7 +472,7 @@ footer {
 }
 
 #MikeMaolaroster {
-    background-image: url(../../img/bearlogoroster.png);
+    background-image: url("../img/bearlogoroster.png");
     transition: 0.5s linear;
 }
 
@@ -481,7 +481,7 @@ footer {
 }
 
 #NateBuchwaldroster {
-    background-image: url(../../img/Buchwald_O.jpg);
+    background-image: url("../img/Buchwald_O.jpg");
     transition: 0.5s linear;
 }
 
@@ -490,7 +490,7 @@ footer {
 }
 
 #NickVotaroster {
-    background-image: url(../../img/Vota_D.jpg);
+    background-image: url("../img/Vota_D.jpg");
     transition: 0.5s linear;
 }
 
@@ -499,17 +499,17 @@ footer {
 }
 
 #SamRodriguezroster {
-    background-image: url(../../img/SamRod_O.jpg);
+    background-image: url("../img/SamRod_O.jpg");
     transition: 0.5s linear;
 }
 
 #SamRodriguezroster:hover {
-    background-image: url(../../img/SamRod_D.jpg);
+    background-image: url("../img/SamRod_D.jpg");
     transition: 0.5s linear;
 }
 
 #ShailenDoshiroster {
-    background-image: url(../../img/bearlogoroster.png);
+    background-image: url("../img/bearlogoroster.png");
     transition: 0.5s linear;
 }
 
@@ -518,37 +518,37 @@ footer {
 }
 
 #ShanDhaliwalroster {
-    background-image: url(../../img/Dhaliwal_O.jpg);
+    background-image: url("../img/Dhaliwal_O.jpg");
     transition: 0.5s linear;
 }
 
 #ShanDhaliwalroster:hover {
-    background-image: url(../../img/Dhaliwal_D.jpg);
+    background-image: url("../img/Dhaliwal_D.jpg");
     transition: 0.5s linear;
 }
 
 #StefanoPrianteroster {
-    background-image: url(../../img/Priante_O.jpg);
+    background-image: url("../img/Priante_O.jpg");
     transition: 0.5s linear;
 }
 
 #StefanoPrianteroster:hover {
-    background-image: url(../../img/Priante_D.jpg);
+    background-image: url("../img/Priante_D.jpg");
     transition: 0.5s linear;
 }
 
 #TomKesslerroster {
-    background-image: url(../../img/Kessler_O.jpg);
+    background-image: url("../img/Kessler_O.jpg");
     transition: 0.5s linear;
 }
 
 #TomKesslerroster:hover {
-    background-image: url(../../img/Kessler_D.jpg);
+    background-image: url("../img/Kessler_D.jpg");
     transition: 0.5s linear;
 }
 
 #TylerDuganroster {
-    background-image: url(../../img/bearlogoroster.png);
+    background-image: url("../img/bearlogoroster.png");
     transition: 0.5s linear;
 }
 
@@ -557,7 +557,7 @@ footer {
 }
 
 #WillDurkinroster {
-    background-image: url(../../img/bearlogoroster.png);
+    background-image: url("../img/bearlogoroster.png");
     transition: 0.5s linear;
 }
 
