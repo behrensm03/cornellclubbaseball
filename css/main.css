@@ -1,0 +1,575 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    text-align: center;
+    text-decoration: none;
+}
+
+.navbar-brand {
+    color: black;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.navbar-brand:focus {
+    outline: 0;
+}
+
+.nav.navbar-nav {
+    background-color: #D95252;
+}
+
+.navbar-custom ul.nav li a {
+	font-size: 12px;
+	letter-spacing: 1px;
+    color: white;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+.navbar-custom .nav li a:hover {
+    outline: 0;
+    background-color: white;
+}
+
+.navbar-custom {
+    background-color: transparent;
+    text-align: center;
+}
+
+#nav {
+    margin-top: 10px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    
+}
+
+#nav a {
+    text-decoration: none;
+}
+
+#nav a:hover{
+    background:#F8F8F8 none;
+    color: black;
+}
+
+#nav ul {
+    display: inline-block;
+    list-style: none;
+}
+
+#nav li {
+    display:inline-block;
+    float: none;
+}
+
+.navbar.center .navbar-inner {
+    text-align: center;
+}
+.navbar.center .navbar-inner .nav {
+    float: none;
+    display:inline-block;
+}
+
+#top {
+    background-image: url(../../img/teamphototransparent.png);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 50px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font-weight: 200;
+}
+
+.title {
+    padding-top: 200px;
+}
+
+.downarrow {
+    background-color: #D95252;
+    border: none;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 3%;
+    width: 100px;
+    font-size: 30px;
+    transition: 1s;
+    border: 2px solid #D95252;
+}
+
+.downarrow:hover {
+    background-color: white;
+    border: none;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 3%;
+    width: 100px;
+    font-size: 30px;
+    transition: 1s;
+    border: 2px solid #D95252;
+}
+
+.buttoncontainer {
+    padding-top: 50px;
+}
+
+#about {
+    background-color: white;
+    min-height: 100%;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+	letter-spacing: 1px;
+	font-weight: 200;
+}
+
+#results {
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+	letter-spacing: 1px;
+	font-weight: 200;
+}
+
+.abouttitle {
+    padding-top: 100px;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.abouttext {
+    padding-top: 100px;
+}
+
+.emptyperson {
+    max-width: 70%
+}
+
+.peoplerow1 {
+    padding-top: 75px;
+}
+
+.emptyperson {
+    border-radius:50%;
+}
+
+.personname {
+    font-size: 20px;
+    font-weight: 300;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.persontitle {
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
+table {
+    border: 1px solid black;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th,tr,td {
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.resultstable {
+    padding-top: 25px;
+}
+
+.theader {
+    font-weight: 300;
+}
+
+#pitchingstatstable {
+    padding-bottom: 100px;
+}
+
+
+.contain {
+    width: 100%;
+    max-width: 200px;
+    text-align: center;
+    position: relative;
+    display: inline-block;
+}
+
+.dummy {
+    margin-top: 100%;
+}
+
+.element {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.element:hover {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.indexlogo {
+    width: 100%;
+    max-width: 150px;
+    padding-top: 50px;
+}
+
+footer {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    background-color: #D95252;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.footerelement {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.snap {
+    transition: 1s linear;
+}
+
+.snap:hover {
+    color: white;
+    transition: 1s linear;
+}
+
+#AaronNeeckroster {
+    background-image: url(../../img/bearlogoroster.png);
+    transition: 0.5s linear;
+}
+
+#AaronNeeckroster {
+    transition: 0.5s linear;
+}
+
+#AlexTorpeyroster {
+    background-image: url(../../img/Torpey_D.jpg);
+    transition: 0.5s linear;
+}
+
+#AlexTorpeyroster:hover {
+    transition: 0.5s linear;
+}
+
+#AndrewGreeneroster {
+    background-image: url(../../img/Greene_O_2.jpg);
+    transition: 0.5s linear;
+}
+
+#AndrewGreeneroster:hover {
+    background-image: url(../../img/Greene_D.jpg);
+    transition: 0.5s linear;
+}
+
+#AnthonyCharlesroster {
+    background-image: url(../../img/AC_O.jpg);
+    transition: 0.5s linear;
+}
+
+#AnthonyCharlesroster:hover {
+    background-image: url(../../img/AC_D.jpg);
+    transition: 0.5s linear;
+}
+
+#BrandonReyesroster {
+    background-image: url(../../img/Reyes_O.jpg);
+    transition: 0.5s linear;
+}
+
+#BrandonReyesroster:hover {
+    background-image: url(../../img/Reyes_D.jpg);
+    transition: 0.5s linear;
+}
+
+#BrettOConnorroster {
+    background-image: url(../../img/OConnor_D.jpg);
+    transition: 0.5s linear;
+}
+
+#BrettOConnorroster:hover {
+    transition: 0.5s linear;
+}
+
+#ConradMcCarthyroster {
+    transition: 0.5s linear;
+    background-image: url(../../img/bearlogoroster.png);
+}
+
+#ConradMcCarthyroster:hover {
+    transition: 0.5s linear;
+}
+
+
+#EricBohrerroster {
+    background-image: url(../../img/Bohrer_O.jpg);
+    transition: 0.5s linear;
+}
+
+#EricBohrerroster:hover {
+    background-image: url(../../img/Bohrer_D_1.jpg);
+    transition: 0.5s linear;
+}
+
+#FernandoGilroster {
+    background-image: url(../../img/bearlogoroster.png);
+    transition: 0.5s linear;
+}
+
+#IanFoxroster {
+    background-image: url(../../img/bearlogoroster.png);
+    transition: 0.5s linear;
+}
+
+#IanFoxroster:hover {
+    transition: 0.5s linear;
+}
+
+#IlanLindenfeldroster {
+    background-image: url(../../img/Ilan_D_1.jpg);
+    transition: 0.5s linear;
+}
+
+#IlanLindenfeldroster:hover {
+    background-image: url(../../img/Ilan_D_2.jpg);
+    transition: 0.5s linear;
+}
+
+#JackBronskyroster {
+    background-image: url(../../img/bearlogoroster.png);
+    transition: 0.5s linear;
+}
+
+#JackBronskyroster:hover {
+    transition: 0.5s linear;
+}
+
+#JamesKimroster {
+    background-image: url(../../img/Kim_O.jpg);
+    transition: 0.5s linear;
+}
+
+#JamesKimroster:hover {
+    background-image: url(../../img/Kim_D.jpg);
+    transition: 0.5s linear;
+}
+
+#JasonShandlerroster {
+    background-image: url(../../img/Shandler_O.jpg);
+    transition: 0.5s linear;
+}
+
+#JasonShandlerroster:hover {
+    background-image: url(../../img/Shandler_D.jpg);
+    transition: 0.5s linear;
+}
+
+#JimmyGroarkroster {
+    background-image: url(../../img/bearlogoroster.png);
+    transition: 0.5s linear;
+}
+
+#JimmyGroarkroster:hover {
+    transition: 0.5s linear;
+}
+
+#JoeyWelshroster {
+    background-image: url(../../img/Welsh_O.jpg);
+    transition: 0.5s linear;
+}
+
+#JoeyWelshroster:hover {
+    background-image: url(../../img/Welsh_D.jpg);
+    transition: 0.5s linear;
+}
+
+#JordanGorelickroster {
+    background-image: url(../../img/Gorelick_O.jpg);
+    transition: 0.5s linear;
+}
+
+#JordanGorelickroster:hover {
+    transition: 0.5s linear;
+}
+
+#JoshSayreroster {
+    background-image: url(../../img/Sayre_O.jpg);
+    transition: 0.5s linear;
+}
+
+#JoshSayreroster:hover {
+    background-image: url(../../img/Sayre_D.jpg);
+    transition: 0.5s linear;
+}
+
+#LouisSusserroster {
+    background-image: url(../../img/bearlogoroster.png);
+    transition: 0.5s linear;
+}
+
+#LouisSusserroster:hover {
+    transition: 0.5s linear;
+}
+
+#MarkJonesroster {
+    background-image: url(../../img/Jones_D_2.jpg);
+    transition: 0.5s linear;
+}
+
+#MarkJonesroster:hover {
+    background-image: url(../../img/Jones_D_1.jpg);
+    transition: 0.5s linear;
+}
+
+#MichaelBehrensroster {
+    background-image: url(../../img/Behrens_O.jpg);
+    transition: 0.5s linear;
+}
+
+#MichaelBehrensroster:hover {
+    transition: 0.5s linear;
+}
+
+#MikeFariasroster {
+    background-image: url(../../img/bearlogoroster.png);
+    transition: 0.5s linear;
+}
+
+#MikeFariasroster:hover {
+    transition: 0.5s linear;
+}
+
+#MikeMaolaroster {
+    background-image: url(../../img/bearlogoroster.png);
+    transition: 0.5s linear;
+}
+
+#MikeMaolaroster:hover {
+    transition: 0.5s linear;
+}
+
+#NateBuchwaldroster {
+    background-image: url(../../img/Buchwald_O.jpg);
+    transition: 0.5s linear;
+}
+
+#NateBuchwaldroster:hover {
+    transition: 0.5s linear;
+}
+
+#NickVotaroster {
+    background-image: url(../../img/Vota_D.jpg);
+    transition: 0.5s linear;
+}
+
+#NickVotaroster:hover {
+    transition: 0.5s linear;
+}
+
+#SamRodriguezroster {
+    background-image: url(../../img/SamRod_O.jpg);
+    transition: 0.5s linear;
+}
+
+#SamRodriguezroster:hover {
+    background-image: url(../../img/SamRod_D.jpg);
+    transition: 0.5s linear;
+}
+
+#ShailenDoshiroster {
+    background-image: url(../../img/bearlogoroster.png);
+    transition: 0.5s linear;
+}
+
+#ShailenDoshiroster:hover {
+    transition: 0.5s linear;
+}
+
+#ShanDhaliwalroster {
+    background-image: url(../../img/Dhaliwal_O.jpg);
+    transition: 0.5s linear;
+}
+
+#ShanDhaliwalroster:hover {
+    background-image: url(../../img/Dhaliwal_D.jpg);
+    transition: 0.5s linear;
+}
+
+#StefanoPrianteroster {
+    background-image: url(../../img/Priante_O.jpg);
+    transition: 0.5s linear;
+}
+
+#StefanoPrianteroster:hover {
+    background-image: url(../../img/Priante_D.jpg);
+    transition: 0.5s linear;
+}
+
+#TomKesslerroster {
+    background-image: url(../../img/Kessler_O.jpg);
+    transition: 0.5s linear;
+}
+
+#TomKesslerroster:hover {
+    background-image: url(../../img/Kessler_D.jpg);
+    transition: 0.5s linear;
+}
+
+#TylerDuganroster {
+    background-image: url(../../img/bearlogoroster.png);
+    transition: 0.5s linear;
+}
+
+#TylerDuganroster:hover {
+    transition: 0.5s linear;
+}
+
+#WillDurkinroster {
+    background-image: url(../../img/bearlogoroster.png);
+    transition: 0.5s linear;
+}
+
+#WillDurkinroster:hover {
+    transition: 0.5s linear;
+}
+
+.lastrow {
+    padding-bottom: 75px;
+}
+
+.boardimg {
+    border-radius: 50%;
+    max-width: 50%;
+}
